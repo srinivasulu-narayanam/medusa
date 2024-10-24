@@ -1,4 +1,4 @@
-import RazorpayProviderService from "./service"
+import RazorpayProviderService from "./razorpay"
 import { 
   ModuleProvider, 
   Modules
